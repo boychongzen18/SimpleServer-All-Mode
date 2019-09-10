@@ -1,5 +1,7 @@
 # XL Saweran All Paket Mode IP Host & Port
 
+# Windows & Android Working
+
 # Tested : Windows Seven & Applikasi Psiphon3
 
 # Author Boychongzen aka Xroot
@@ -18,7 +20,7 @@ Tampilan Psiphon3 & Pdanet-For-Andoid Mode IP Host & Port
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Link Tutorial : 
+Link Tutorial  Android : https://youtu.be/cpMHca3Cfnw
 
 My Website    : https://hackingforlive.wordpress.com
 
