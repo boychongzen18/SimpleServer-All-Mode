@@ -1,4 +1,4 @@
-# XL Saweran All Paket Mode IP Host & Port
+# SimpleServer Mode IP Host & Port
 
 # Windows & Android Working
 
