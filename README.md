@@ -11,7 +11,7 @@
 # bisa up 5GB Perhari
 ![be](https://raw.githubusercontent.com/boychongzen18/simpleserver/master/meter.jpg)
 # Kuota Iflix SuperNonton 14GB 11.900 Perbulan Via Laptop 
-# Tampilan Psiphon3 & Pdanet-For-Andoid Mode IP Host & Port
+# Tampilan Psiphon3 & Pdanet-For-Android
 ![be](https://raw.githubusercontent.com/boychongzen18/simpleserver/master/0.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/simpleserver/master/1.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/simpleserver/master/2.jpg)
