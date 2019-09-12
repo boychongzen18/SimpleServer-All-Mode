@@ -6,11 +6,11 @@
 
 # Author Boychongzen aka Xroot
 
-# Operator XL Axiata ( BIZ Starter Unlimited ) 
+# Paket BIZ Starter Unlimited 49k Perbulan 
+![be](https://raw.githubusercontent.com/boychongzen18/simpleserver/master/biz.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/simpleserver/master/meter.jpg)
 
-
-
-# Operator XL Axiata ( Iflix SuperNonton 14GB ) 
+# Kuota Iflix SuperNonton 14GB 11.900 Perbulan  
 
 Tampilan Psiphon3 & Pdanet-For-Andoid Mode IP Host & Port
 ![be](https://raw.githubusercontent.com/boychongzen18/simpleserver/master/0.jpg)
